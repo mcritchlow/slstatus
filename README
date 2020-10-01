@@ -39,6 +39,8 @@ Installation
 Edit config.mk to match your local setup (slstatus is installed into the
 /usr/local namespace by default).
 
+Edit config.def.h to add or remove features from status bar.
+
 Afterwards enter the following command to build and install slstatus (if
 necessary as root):
 
